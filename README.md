@@ -1,6 +1,6 @@
 # ed2k-servers
 
-List of working eD2k
+List of working eD2k updated and tested via eMule
 
 01 - [!! Sharing-Devils No.1 !!](ed2k://|server|193.233.203.107|4232|/)
 
