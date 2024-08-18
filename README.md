@@ -2,6 +2,7 @@
 
 List of working eD2k updated and tested via eMule
 
+Paste this to "Update server.met from URL"
 https://github.com/MatGMC7/ed2k-servers/raw/main/server.met
 
 Credit:<br>
