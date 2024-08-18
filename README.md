@@ -1,6 +1,6 @@
 # ED2K Servers List
 
-List of working eD2k updated and tested via eMule :white_check_mark:
+List of working eD2k servers updated and tested via eMule :white_check_mark:
 
 :small_red_triangle_down:Paste this to "Update server.met from URL":<br>
 https://github.com/MatGMC7/ed2k-servers/raw/main/server.met
